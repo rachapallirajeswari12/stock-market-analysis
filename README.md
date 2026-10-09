@@ -6,6 +6,8 @@ This project analyzes historical stock market data of six Indian companies using
 
 The analysis results are presented through a Streamlit dashboard and a project insights presentation.
 
+https://rachapallirajeswari12-stock-market-analysis-app-k30tpp.streamlit.app/
+
 ## 🎯 Project Objectives
 
 * Analyze historical stock prices across six companies.
